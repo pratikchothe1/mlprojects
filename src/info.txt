@@ -1,0 +1,6 @@
+we have created folder src & 
+We have created __init__ file in it
+Here presence of init in folder src converts src as package
+
+Hence findpackage command in setup.py finds such file (or packages) where __init__ file is present
+and we can use it like packages in pypi 
